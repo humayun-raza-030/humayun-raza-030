@@ -33,10 +33,10 @@
 
 ### 📈 GitHub Stats & Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=humayun-raza-030&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
+  <img src="https://github.com/humayun-raza-030/humayun-raza-030/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
 </p>
 
