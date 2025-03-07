@@ -14,25 +14,19 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Contribution Graph
-        id: snake
         uses: Platane/snk@master
         with:
           github_user_name: humayun-raza-030
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Save Contribution Graph
+      - name: Commit & Push Changes
         run: |
-          echo "GRAPH_PATH=dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
-          echo "GRAPH_GIF_PATH=dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
-
-      - name: Push Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add dist/github-contribution-grid-snake.*
+          git commit -m "Updated Contribution Graph" || echo "No changes to commit"
+          git push origin master
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
