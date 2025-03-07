@@ -22,7 +22,7 @@
 ### 🚀 Welcome to My GitHub!
 * 👂 My name is **Humayun Raza**
 * 🔭 I’m currently working on **cutting-edge software solutions**
-* 🌱 I’m currently learning **Advanced C++, Cloud Computing & AI**
+* 🌱 I’m currently learning **Advanced Python, Cloud Computing & AI**
 * 🤝 I’m looking to collaborate on **AI-driven open-source projects**
 * 🤔 I’m looking for help with **optimizing large-scale applications**
 * 💬 Ask me about **Web Development, System Design & AI**
@@ -45,8 +45,6 @@
 <p align="center">
   <img src="https://github.com/humayun-raza-030/humayun-raza-030/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
 </p>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
