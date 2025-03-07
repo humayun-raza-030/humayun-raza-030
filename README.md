@@ -1,18 +1,22 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
 <!-- Social Media Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/humayun-raza-030hr/"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/humayunn_raza/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/humayun-raza-030hr/"><img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <a href="https://www.instagram.com/humayunn_raza/"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/></a>
   <a href="https://www.facebook.com/god.selected.person/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook"/></a>
 </p>
 
 <!-- Personal GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Personal GIF"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NwY2V4bDl6b2VxaXE4ZXBubm1xY3NkMXRpYzU0cmZ3MDZqdm9rMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Personal GIF"/>
 </p>
 
 ### 🚀 Welcome to My GitHub!
@@ -26,6 +30,8 @@
 * ❤️ I love **problem-solving, building scalable apps, and exploring new tech**
 * ⚡ Fun fact: **I automate tasks so I can spend more time automating more tasks! 🤖**
 
+
+
 ### 🛠️ Tools & Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,mongodb,sqlite,docker,aws,git"/>
@@ -34,11 +40,16 @@
 ### 📈 GitHub Stats & Contribution Graph
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=humayun-raza-030&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  
-  ![Snake animation](https://github.com/humayun-raza-030/humayun-raza-030/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 <p align="center">
   <img src="https://github.com/humayun-raza-030/humayun-raza-030/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
 </p>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
