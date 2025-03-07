@@ -37,10 +37,17 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,mongodb,sqlite,docker,aws,git"/>
 </p>
 
+### 🔝 Top Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayun-raza-030&layout=compact&theme=radical" alt="Top Used Languages"/>
+</p>
+
 ### 📈 GitHub Stats & Contribution Graph
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=humayun-raza-030&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
+
+![image](https://github.com/user-attachments/assets/19bdcda3-97b1-4d2b-b439-438d50417f0b)
 
 <p align="center">
   <img src="https://github.com/humayun-raza-030/humayun-raza-030/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
