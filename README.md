@@ -46,9 +46,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=humayun-raza-030&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-
-![image](https://github.com/user-attachments/assets/19bdcda3-97b1-4d2b-b439-438d50417f0b)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humayun-raza-030&theme=github-dark" alt="Contribution Graph"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=humayun-raza-030&theme=dark" alt="GitHub Streak"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
