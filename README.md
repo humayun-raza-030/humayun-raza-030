@@ -6,7 +6,7 @@
 <!-- Social Media Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/humayun-raza-030hr/"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/humayunraza030/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/humayunn_raza/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/></a>
   <a href="https://www.facebook.com/god.selected.person/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook"/></a>
 </p>
 
