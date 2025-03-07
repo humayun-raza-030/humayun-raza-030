@@ -42,13 +42,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayun-raza-030&layout=compact&theme=radical" alt="Top Used Languages"/>
 </p>
 
+![GitHub Contributions](https://github.com/humayun-raza-030/humayun-raza-030/blob/main/profile-3d-contrib/profile-green-animate.svg)
 ### 📈 GitHub Stats & Contribution Graph
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=humayun-raza-030&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humayun-raza-030&theme=github-dark" alt="Contribution Graph"/>
-</p>
+
+
+
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=humayun-raza-030&theme=dark" alt="GitHub Streak"/>
 </p>
