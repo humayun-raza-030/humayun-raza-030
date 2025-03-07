@@ -49,9 +49,6 @@
 
 ![image](https://github.com/user-attachments/assets/19bdcda3-97b1-4d2b-b439-438d50417f0b)
 
-<p align="center">
-  <img src="https://github.com/humayun-raza-030/humayun-raza-030/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
