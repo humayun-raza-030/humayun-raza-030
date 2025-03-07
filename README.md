@@ -34,6 +34,8 @@
 ### 📈 GitHub Stats & Contribution Graph
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=humayun-raza-030&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  
+  ![Snake animation](https://github.com/humayun-raza-030/humayun-raza-030/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 <p align="center">
